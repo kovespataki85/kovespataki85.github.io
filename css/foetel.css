@@ -1,0 +1,66 @@
+body{
+	background-image: url(../images/background16.jpg);
+	background-size: cover;
+	color: black;
+	font-family:Times New Roman, Helvetica, sans-serif;
+	font-size:30px;
+	line-height:1.6em;
+	width: 1900px;
+	font-weight: 900;
+}
+header{
+	margin-top: 30px;
+	margin-left: 35%;
+	margin-bottom: 100px;
+	border-bottom: solid;
+}
+header a{
+	float: left;
+	margin-right: 150px;
+}
+header img {
+	width: 70px;
+}
+#elsokep{
+	float:left;
+	padding-left:5%;
+}
+#croque img{
+	height: 350px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#croque h3{
+	margin-top: 125px;
+	float: left;
+}
+#pie img{
+	height: 300px;
+	margin-left:10px;
+	float: left;
+	margin-right:10px;
+}
+#steak img{
+	height: 300px;
+	float: left;
+	margin-right:10px;
+}
+#risotto img{
+	height: 300px;
+	float: left;
+	margin-right:10px;
+}
+#taco img{
+	height: 300px;
+	float:left;
+}
+#szoveg li{
+	display: inline-block;
+	padding-right:250px;
+}
+#szoveg ul{
+	list-style: none;
+}
+h3{
+	text-decoration: underline;
+}

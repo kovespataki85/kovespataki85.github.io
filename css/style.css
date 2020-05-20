@@ -1,0 +1,56 @@
+body{
+	background-image: url(../images/background8.jpg);
+	background-size: cover;
+	color: white;
+	font-family:Times New Roman, Helvetica, sans-serif;
+	font-size:30px;
+	line-height:1.6em;
+	width: 1900px;
+}
+header{
+	margin-top: 30px;
+	margin-left: 50%;
+	margin-bottom: 60px;
+	border-bottom: solid;
+}
+
+#main{
+	margin-left: 30%;
+}
+
+#lista1{
+	float: left;
+	margin-left: 30%;
+}
+#lista2{
+	float: left;
+}
+#lista3{
+	float: left;
+}
+
+#lista1 img{
+	width: 35%;
+}
+#lista2 img{
+	width: 35%;
+}
+#lista3 img{
+	width: 50%;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color: red;
+}
+ul{
+	list-style-type: none;
+}
+#kapcsolat a{
+	text-decoration: underline;
+}
+#kapcsolat{
+	padding-top: 300px;
+}

@@ -1,0 +1,40 @@
+body{
+	background-image: url(../images/background18.jpg);
+	background-size: cover;
+	color: black;
+	font-family:Times New Roman, Helvetica, sans-serif;
+	font-size:30px;
+	line-height:1.6em;
+	width: 1900px;
+	font-weight: 900;
+}
+header{
+	margin-top: 30px;
+	margin-left: 35%;
+	margin-bottom: 100px;
+	border-bottom: solid;
+}
+header a{
+	float: left;
+	margin-right: 150px;
+}
+header img {
+	width: 70px;
+}
+section img{
+	height: 400px;
+	float: left;
+	margin-bottom: 50px;
+}
+section h3{
+	float:left;
+	margin-right: 30px;
+	margin-left: 120px;
+	text-decoration: underline;
+}
+#elsokep{
+	margin-left: 160px;
+}
+#szoveg{
+	margin-right: 120px;
+}
