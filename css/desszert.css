@@ -43,10 +43,10 @@ section img{
 }
 section h3{
 	float:left;
-	margin-right: 30px;
-	margin-left: 120px;
+	margin-right: 2%;
+	margin-left: 5%;
 	text-decoration: underline;
 }
 #szoveg{
-	margin-right: 120px;
+	margin-right: 5%;
 }

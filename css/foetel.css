@@ -41,24 +41,24 @@ header img {
 	margin-left: 2%;
 }
 #croque h3{
-	margin-top: 125px;
+	margin-top: 6%;
 	float: left;
 }
 #pie img{
 	width: 24%;
-	margin-left:10px;
+	margin-left:1%;
 	float: left;
-	margin-right:10px;
+	margin-right:1%;
 }
 #steak img{
 	width: 23%;
 	float: left;
-	margin-right:10px;
+	margin-right:1%;
 }
 #risotto img{
 	width: 20.5%;
 	float: left;
-	margin-right:10px;
+	margin-right:1%;
 }
 #taco img{
 	width: 27.3%;
@@ -67,7 +67,7 @@ header img {
 #szoveg li{
 	display: inline-block;
 	padding-left:5%;
-	padding-right: 7%;
+	padding-right: 6%;
 }
 #szoveg ul{
 	list-style: none;
