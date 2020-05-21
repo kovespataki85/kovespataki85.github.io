@@ -3,9 +3,9 @@ body{
 	background-size: cover;
 	color: black;
 	font-family:Times New Roman, Helvetica, sans-serif;
-	font-size:30px;
+	font-size:1.6vw;
 	line-height:1.6em;
-	width: 100%;
+	width: 99%;
 	font-weight: 900;
 }
 header{
@@ -22,18 +22,27 @@ header img {
 	width: 70px;
 }
 section img{
-	height: 400px;
 	float: left;
 	margin-bottom: 50px;
+}
+#pite{
+	width: 30%;
+}
+#torta{
+	width: 15.5%;
+}
+#mpite1{
+	width: 27%;
+	margin-left: 14.5%;
+}
+#mpite2{
+	width: 27%;
 }
 section h3{
 	float:left;
 	margin-right: 30px;
 	margin-left: 120px;
 	text-decoration: underline;
-}
-#elsokep{
-	margin-left: 160px;
 }
 #szoveg{
 	margin-right: 120px;

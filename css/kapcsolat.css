@@ -3,9 +3,9 @@ body{
 	background-size: cover;
 	color: white;
 	font-family:Times New Roman, Helvetica, sans-serif;
-	font-size:30px;
+	font-size:1.9vw;
 	line-height:1.6em;
-	width: 100%;
+	width: 99%;
 	font-weight: 900;
 }
 header{
@@ -16,10 +16,11 @@ header{
 }
 header a{
 	float: left;
-	margin-right: 150px;
+	margin-right:1%;
 }
 header img {
-	width: 70px;
+	width: 13%;
+	float: left;
 }
 img{
 	width: 42%;
@@ -29,9 +30,8 @@ img{
 section h5{
 	text-align: center;
 	margin-left: 20%;
-	font-size:35px;
 }
-section h2{
+section h3{
 	margin-left: 33%;
 	text-decoration: underline;
 	margin-bottom: 100px;

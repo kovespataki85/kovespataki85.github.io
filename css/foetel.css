@@ -3,9 +3,9 @@ body{
 	background-size: cover;
 	color: black;
 	font-family:Times New Roman, Helvetica, sans-serif;
-	font-size:30px;
+	font-size:1.5vw;
 	line-height:1.6em;
-	width: 100%;
+	width: 99%;
 	font-weight: 900;
 }
 header{
@@ -25,8 +25,15 @@ header img {
 	float:left;
 	padding-left:5%;
 }
+#elsokep{
+	width: 35%;
+	height: auto;
+}
+#masodikkep{
+	width: 31.5%;
+	height: auto;
+}
 #croque img{
-	height: 350px;
 	margin-right: 2%;
 	margin-left: 2%;
 }
@@ -35,28 +42,29 @@ header img {
 	float: left;
 }
 #pie img{
-	height: 300px;
+	width: 24%;
 	margin-left:10px;
 	float: left;
 	margin-right:10px;
 }
 #steak img{
-	height: 300px;
+	width: 23%;
 	float: left;
 	margin-right:10px;
 }
 #risotto img{
-	height: 300px;
+	width: 20.5%;
 	float: left;
 	margin-right:10px;
 }
 #taco img{
-	height: 300px;
+	width: 27.3%;
 	float:left;
 }
 #szoveg li{
 	display: inline-block;
-	padding-right:250px;
+	padding-left:5%;
+	padding-right: 7%;
 }
 #szoveg ul{
 	list-style: none;
