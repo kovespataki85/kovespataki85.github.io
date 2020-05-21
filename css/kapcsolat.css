@@ -3,35 +3,38 @@ body{
 	background-size: cover;
 	color: white;
 	font-family:Times New Roman, Helvetica, sans-serif;
-	font-size:1.9vw;
+	font-size:1.6vw;
 	line-height:1.6em;
 	width: 99%;
 	font-weight: 900;
 }
+#wrapper{
+	margin-left: 15%;
+}
 header{
 	margin-top: 30px;
-	margin-left: 35%;
 	margin-bottom: 100px;
 	border-bottom: solid;
 }
-header a{
+header h1{
 	float: left;
-	margin-right:1%;
+	margin-right: 30%;
 }
 header img {
-	width: 13%;
-	float: left;
+	width: 8%;
+	height: auto;
 }
-img{
-	width: 42%;
+#kep img{
+	width: 45%;
 	float: right;
 }
 
-section h5{
+section h3{
 	text-align: center;
 	margin-left: 20%;
 }
-section h3{
+section h2{
+	margin-top: 6%;
 	margin-left: 33%;
 	text-decoration: underline;
 	margin-bottom: 100px;
